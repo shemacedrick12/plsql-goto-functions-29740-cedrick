@@ -1,0 +1,16 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.log
+*~
+
+# Oracle SQL Developer local files
+*.dmp
+*.lst
